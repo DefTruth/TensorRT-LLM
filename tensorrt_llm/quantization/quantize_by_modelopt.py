@@ -123,6 +123,7 @@ MODEL_NAME_PATTERN_MAP = {
     "MixtralForCausalLM": "llama",
     "ArcticForCausalLM": "llama",
     "Phi3SmallForCausalLM": "phi",
+    "InternLM2ForCausalLM": "llama",
 }
 
 
